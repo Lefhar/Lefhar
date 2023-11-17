@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 [![Logo de mon portefolio](https://lefebvreharold.fr/assets/file/portfolioSymfony-min.webp)](https://lefebvreharold.fr){:target="_blank"}
+<a href="https://lefebvreharold.fr" target="_blank"><img src="https://lefebvreharold.fr/assets/file/portfolioSymfony-min.webp" alt="Logo de mon portefolio"></a>
+
 <!---
 Lefhar/Lefhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
